@@ -4,7 +4,7 @@ Application to exercise boxing/unboxing (ArrayList&lt;Double>) and to practice A
 
 Challenge text:
 
-// You job is to create a simple banking application.
+// Your job is to create a simple banking application.
         
 // There should be a Bank class
         
